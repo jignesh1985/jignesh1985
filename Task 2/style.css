@@ -1,0 +1,69 @@
+body{background-color: #e36414;
+
+
+}
+h1{color: blue;
+font-size: xx-large;}
+
+h2{background-color: lime;
+font-size: 40px;
+
+}
+
+
+.high_text{
+    color: red;
+}
+h4{color: blue;}
+
+
+.para_class{
+    color: white;
+    font-size: 30px;
+}
+
+
+#first{
+    color: black;
+    font-size: 35;
+}
+
+.highlight{
+    color: black;
+    font-size: 120%;
+}
+
+
+#first{
+    color: green;
+    font-size: 120%;
+}
+
+
+#second{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+div{
+    color: white;
+}
+
+
+
+.text_high{
+    background-color: rgb(135, 135, 223);
+}
+
+.list2{
+    color: rgb(0, 0, 250);
+}
+
+.list3{
+    color: red;
+}
+
+
+
+
+

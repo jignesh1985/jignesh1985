@@ -1,0 +1,43 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+    section {
+  width: 50vw;
+  height: 80vh;
+  margin: 10vh 25vw;
+  display: inline-block;
+  text-align: center;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+    width: 50%;
+    height: 8vh;
+    display: inline-block;
+    font-size: 3vh;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #fff;
+    background: linear-gradient(45deg, orange, rgb(113, 201, 113));
+    border: black;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    transform: none;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  button:active {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+  }
+  
